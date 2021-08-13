@@ -16,7 +16,7 @@ Please invite me to the GitHub Community Organisation.
 - #### Discord Username(if exists):
 
 - #### Additional Context:
-<!--Where did you meet Eddie?-->
+<!--Where did you meet Pulkit?-->
 
 <!--What do you like about this community/ why do you want to join-->
 
