@@ -36,5 +36,5 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 - Add any other context about the problem here.
-- You can also join the discord community [here](https://discord.gg/Q7BTD58JKr)
-- Feel free to check out other cool repositories of EddieHub Community [here](https://github.com/Programmers-Universal-Group)
+- You can also join the discord community [here](http://discord.pugroups.in)
+- Feel free to check out other cool repositories of PUG Community [here](https://github.com/Programmers-Universal-Group)
