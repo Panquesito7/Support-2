@@ -48,7 +48,7 @@ Please check out the [issue queue](https://github.com/Programmers-Universal-Grou
       <a href='https://github.com/Programmers-Universal-Group'>here</a>.
 
 ## FAQ
-- **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be: [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook) and of course [EddieHub](https://github.com/Programmers-Universal-Group).
+- **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be: [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook) and of course [PUGroups](https://github.com/UGroups).
 Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
 - **How do I join the Github Organization?** Raise an issue on this repository asking to join ([examples](https://github.com/Programmers-Universal-Group/support/issues)).
 - **How do I set the Organization to Public?** You can make the organization public by: 
