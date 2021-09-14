@@ -1,0 +1,33 @@
+name: Invitation to the GitHub Community Organization
+description: I would like to be part of the awesome community
+title: "Please invite me to the GitHub Community Organization"
+labels: ["invite me to the organisation"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Your name
+      placeholder: John Doe
+    validations:
+      required: true
+  - type: input
+    id: discord
+    attributes:
+      label: Discord username (if exists)
+      placeholder: Pulkit Singh#8120
+    validations:
+      required: false
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: |
+       "Where did you meet Pulkit?
+       What do you like about this community/why do you want to join?"
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+       You can also join our Discord community [here](http://discord.pugroups.in)
+       Feel free to check out other cool repositories of the PUG Community [here](https://github.com/PUGroup)
